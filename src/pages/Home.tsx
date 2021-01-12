@@ -8,9 +8,7 @@ const Home = () => {
             <div className="container-fluid">
                 <div className="row">
                    <Menu />
-                   <div className="col-md-12">
-                       <Table />
-                   </div>
+                    <Table />
                 </div>
             </div>
         </>
