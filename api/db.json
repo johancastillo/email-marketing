@@ -1,0 +1,46 @@
+{
+    "providers": [
+        {   
+            "id": 1,
+            "rif": "V2324",
+            "name": "Jc Johan",
+            "service": "Web Developer FULL-STACK",
+            "email": "jcjohan2707@gmail.com",
+            "phone": "04242183299"
+        },
+        {   
+            "id": 2,
+            "rif": "V25524",
+            "name": "Yariana",
+            "service": "Graphic Design",
+            "email": "yari@gmail.com",
+            "phone": "04242183299"
+        },
+        {   
+            "id": 3,
+            "rif": "V288324",
+            "name": "Yoiberth",
+            "service": "Copiwriter",
+            "email": "yoiberth@gmail.com",
+            "phone": "04242183299"
+        }
+    ],
+    "clients": [
+        {   
+            "id": 2,
+            "rif": "V25524",
+            "name": "Yariana",
+            "service": "Graphic Design",
+            "email": "yari@gmail.com",
+            "phone": "04242183299"
+        },
+        {   
+            "id": 2,
+            "rif": "V25524",
+            "name": "Yariana",
+            "service": "Graphic Design",
+            "email": "yari@gmail.com",
+            "phone": "04242183299"
+        }
+    ]
+}
