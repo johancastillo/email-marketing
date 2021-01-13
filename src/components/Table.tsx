@@ -3,6 +3,15 @@ import React from 'react'
 const Table = () => {
     return (
         <div className="col-md-8">
+          <div className="client-bar">
+            <h1>Clients</h1>
+
+            <button className="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" >
+              + Add client
+            </button>
+
+          </div>
+          
             <table className="table table-striped">
                 <thead>
                     <tr>
