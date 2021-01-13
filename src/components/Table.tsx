@@ -24,7 +24,7 @@ const Table = () => {
 
                 <tbody>
                     <tr>
-                        <th className="client-column">
+                        <td className="client-column">
                             <div>
                                 <img className="img-client" src="https://scontent-lim1-1.cdninstagram.com/v/t51.2885-19/s150x150/41138827_478373809328665_5784876568920719360_n.jpg?_nc_ht=scontent-lim1-1.cdninstagram.com&_nc_ohc=TcQ2NnxSMGEAX9sZw2Z&tp=1&oh=65d25b8817040f9d2ec7deb68ce9678f&oe=602873F4" alt="" />
                             </div>
@@ -33,7 +33,7 @@ const Table = () => {
                                 <span>Johan Castillo</span>
                                 <p>jcjohan2707@gmail.com</p>
                             </div>
-                        </th>
+                        </td>
 
                         <td>19</td>
 
