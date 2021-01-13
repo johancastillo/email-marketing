@@ -8,8 +8,8 @@ class Modal extends Component {
 
     this.state = {
       client: {
-        "id": 40,
-        "name": "Johan",
+        "id": 12,
+        "name": "Ana",
         "last_name": "Castillo",
         "photo": "",
         "age": "19",
@@ -63,7 +63,7 @@ class Modal extends Component {
   
             <div className="modal-footer">
               <button type="button" className="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
-              <button type="button" className="btn btn-primary" onClick={this.handleCreate}>Crear cliente</button>
+              <button type="button" className="btn btn-primary" onClick={this.handleCreate} data-bs-dismiss="modal">Crear cliente</button>
             </div>
           </div>
         </div>
