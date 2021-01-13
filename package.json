@@ -45,6 +45,7 @@
   "devDependencies": {
     "@types/react-router-dom": "^5.1.7",
     "json-server": "^0.16.3",
+    "node-sass": "4.0.0",
     "serve": "^11.3.2"
   }
 }
