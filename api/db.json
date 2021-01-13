@@ -4,46 +4,56 @@
             "id": 1,
             "name": "Johan",
             "last_name": "Castillo",
+            "photo": "",
             "age": "19",
             "email": "jcjohan2707@gmail.com",
             "phone": "04242183299",
-            "country": "Venezuela"
+            "country": "Venezuela",
+            "interests": ["comida", "tecnología", "hogar", "ropa"]
         },
         {   
             "id": 2,
             "name": "Yariana",
             "last_name": "Ramos",
+            "photo": "",
             "age": "26",
             "email": "yari@gmail.com",
             "phone": "04242183299",
-            "country": "Venezuela"
+            "country": "Venezuela",
+            "interests": ["comida", "tecnología", "hogar", "ropa"]
         },
         {   
             "id": 3,
             "name": "Jorge",
             "last_name": "Paisano",
+            "photo": "",
             "age": "30",
             "email": "jpaisano@gmail.com",
             "phone": "04242183299",
-            "country": "Venezuela"
+            "country": "Venezuela",
+            "interests": ["comida", "tecnología", "hogar", "ropa"]
         },
         {   
             "id": 4,
             "name": "Pepito",
             "last_name": "Pérez",
+            "photo": "",
             "age": "20",
             "email": "pepito@gmail.com",
             "phone": "04242183299",
-            "country": "Perú"
+            "country": "Perú",
+            "interests": ["comida", "tecnología", "hogar", "ropa"]
         },
         {   
             "id": 5,
             "name": "Juanita",
             "last_name": "Sinforosa",
+            "photo": "",
             "age": "35",
             "email": "jsinforasa@gmail.com",
             "phone": "04242183299",
-            "country": "España"
+            "country": "España",
+            "interests": ["comida", "tecnología", "hogar", "ropa"]
         }
     ]
 }

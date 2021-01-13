@@ -6,9 +6,9 @@ const Table = () => {
             <table className="table table-striped">
                 <thead>
                     <tr>
-                        <th scope="col">#</th>
-                        <th scope="col">First</th>
-                        <th scope="col">Last</th>
+                        <th scope="col">Cliente</th>
+                        <th scope="col">Edad</th>
+                        <th scope="col">Intereses</th>
                         <th scope="col">Handle</th>
                     </tr>
                 </thead>
