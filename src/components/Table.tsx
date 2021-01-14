@@ -2,7 +2,7 @@ import React from 'react'
 
 const Table = () => {
     return (
-        <div className="col-md-8">
+        <div className="col-md-11">
           <div className="client-bar">
             <h1>Clients</h1>
 
